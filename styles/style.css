@@ -38,9 +38,9 @@ header{
 /* failure section style */
 
 .failure-container{
-    margin: 130px; 250px;
+    margin: 130px; auto;
     display: flex;
-    gap: 80px;
+    gap: 150px;
     justify-content: center;
     align-items: center;
 }
@@ -60,9 +60,13 @@ header{
 }
 .failure-list{
     list-style: none;
+    padding-bottom: 5px;
 }
 .failure-list li{
     list-style-image: url(../images/check-mark.png);
+}
+.list-activity{
+    padding-bottom: 10px;
 }
 /* Plan section style */
 .my-plan-container{
