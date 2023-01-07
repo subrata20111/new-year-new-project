@@ -38,7 +38,7 @@ header{
 /* failure section style */
 
 .failure-container{
-    margin: 130px; auto;
+    margin: 130px 230px;
     display: flex;
     gap: 150px;
     justify-content: center;
@@ -137,7 +137,7 @@ header{
 /* What to do section style */
 
 .what-to-do{
-    margin: 130px; auto;
+    margin: 130px 130px;
 }
 .to-do-list{
     display: flex;
@@ -156,8 +156,7 @@ header{
 .activity-icon{
     margin: 0 auto;
     padding-bottom: 20px;
-    padding-left: 60px;
-    padding right: 60px;
+    padding-left: 75px;
 }
 .activity-heading{
     font-size: 22px;
@@ -176,10 +175,7 @@ footer{
     color: white;
     display: flex;
     gap: 100px;
-    padding: 130px 230px
-}
-.future-container{
-
+    padding: 130px 230px;
 }
 .future-heading{
     font-size: 45px;
