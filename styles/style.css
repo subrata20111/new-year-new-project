@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+/* Header styles */
+header{
+    background: url(../images/banner/banner3.png);
+    height: 800px;
+    background-repeat: no-repeat;
+}
+.header-container{
+    padding: 200px 230px 340px 840px;
+}
+.header-title{
+    font-size: 65px;
+    font-weight: 700;
+    text-align: right;
+    padding-bottom: 24px;
+    color: white;
+}
+.header-text{
+    color: white;
+    text-align: right;
+    padding-bottom: 24px;
+}
+.btn-primary{
+    color: #005FAC;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: right;
+    padding: 20px;
+    border: 0;
+    border-radius: 5px;
+    float: right;
+}
+
+/* failure section style */
+
+.failure-container{
+    max-width: 1072px;
+    margin: 130px; 250px;
+    display: flex;
+    gap: 80px;
+    align-items: center;
+}
+.failure-title{
+    font-size: 40px;
+    font-weight: 700;
+    color: #151414;
+    padding-bottom: 24px;
+}
+.failure-text{
+    color: #444343;
+    padding-bottom: 24px;
+}
