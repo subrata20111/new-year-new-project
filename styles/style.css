@@ -44,6 +44,10 @@ header{
     gap: 80px;
     align-items: center;
 }
+.failure-container-image{
+    height: 750px;
+    width: 550px;
+}
 .failure-title{
     font-size: 40px;
     font-weight: 700;
@@ -53,4 +57,10 @@ header{
 .failure-text{
     color: #444343;
     padding-bottom: 24px;
+}
+.failure-list{
+    list-style: none;
+}
+.failure-list li{
+    list-style-image: url(../images/check-mark.png);
 }
