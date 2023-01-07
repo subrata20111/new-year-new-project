@@ -157,3 +157,51 @@ header{
 .activity-icon{
     padding-left: 60px;
 }
+/* Footer style */
+footer{
+    background-color: #151414;
+    color: white;
+    display: flex;
+    gap: 100px;
+    padding: 130px 230px
+}
+.future-container{
+
+}
+.future-heading{
+    font-size: 45px;
+    font-weight: 700;
+    padding-bottom: 24px;
+}
+.future-description{
+    padding-bottom: 24px;
+    line-height: 1.5rem;
+}
+.future-text{
+    padding-bottom: 16px;
+}
+.subscribe-title{
+    font-size: 25px;
+    font-weight: 600;
+    padding-bottom: 24px;
+}
+.icons{
+    padding-right: 10px;
+}
+.input-email{
+    height: 64px;
+    width: 350px;;
+    border: 1px solid white;
+    border-radius: 5px;
+    margin-bottom: 16px;
+}
+
+.btn-subscribe{
+    background: #005FAC;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px 15px;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+}
